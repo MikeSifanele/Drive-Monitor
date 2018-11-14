@@ -1,0 +1,7 @@
+Drive Inserted D:\ Removable|Memory Available: 3980 MB|User: Mike.Sifanele|Time: 2018/10/17 16:57:52
+File Renamed|Actioned by: Mike.Sifanele|Time: 2018/10/17 16:58:16|Old File Name: Schedule Transcoder.zip|New File Name: VoD Operations Schedule Transcoder.zip|File Path: D:\Video\VoD Operations Schedule Transcoder.zip
+Drive Removed D:\ Removable|Memory Available: 3980 MB|User: Mike.Sifanele|Time: 2018/10/17 16:58:22
+Drive Inserted D:\ Removable|Memory Available: 3980 MB|User: Mike.Sifanele|Time: 2018/10/17 16:58:27
+File Renamed|Actioned by: Mike.Sifanele|Time: 2018/10/17 16:58:46|Old File Name: Vantage SDK.zip|New File Name: Vantage Version 7.1 SDK.zip|File Path: D:\Video\Vantage Version 7.1 SDK.zip
+Drive Removed D:\ Removable|Memory Available: 3980 MB|User: Mike.Sifanele|Time: 2018/10/17 16:58:49
+Drive Inserted D:\ Removable|Memory Available: 3980 MB|User: Mike.Sifanele|Time: 2018/10/17 16:58:52
